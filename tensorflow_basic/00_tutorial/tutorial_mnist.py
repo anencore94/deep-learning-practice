@@ -1,5 +1,5 @@
 """
-This script is the tutorial for using tensorflow API
+This script is the 00_tutorial for using tensorflow API
 
 @ Link : https://www.tensorflow.org/tutorials/quickstart/beginner?hl=ko
 """

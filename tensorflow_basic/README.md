@@ -1,0 +1,3 @@
+- 다음 두 링크의 내용 중 구현 실습 필요한 내용을 정리한 폴더
+    - [텐서플로우 공식 사이트](https://www.tensorflow.org/tutorials/quickstart/beginner?hl=ko)
+    - [딥러닝을 위한 TensorFlow 2.0 | T 아카데미 영상](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcq_bdv-fWT1Uw7zEBc3VMD)

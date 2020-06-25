@@ -17,7 +17,7 @@ $ sudo pip3 install -U virtualenv  # system-wide install
 
 ### 2) virtualenv 가상 환경 구축
 ```
-$ cd deep-learning-practice
+$ cd {$Your-Workspace}
 $ mkdir venv
 $ virtualenv --system-site-packages -p python3 ./venv
 ```
