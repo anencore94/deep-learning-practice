@@ -28,5 +28,5 @@
         - `__init__` 내에 상태 변수 추가
         - `update_state`, `result`, `reset_states` 함수 오버라이딩
 
-## 파트 3: TODO
--  Optimizer 클래스 & 빠른 end-to-end 학습 반복문 부터
+## 파트 3: VAE 구현
+-  위의 keras API 를 직접 사용하여 예제로 VAE 구현
